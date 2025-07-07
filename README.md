@@ -15,6 +15,6 @@ Our client has provided us with the model code to classify healthy/diseased cott
 
 ## Contributors
 - [@BKeeping](https://github.com/BKeeping) - Ben Keeping
-- [@DPenfold](https://github.com/DPenfold) - David Penfold
+- [@DPenfold](https://github.com/DPenf0ld) - David Penfold
 - [@edwardgaston](https://github.com/edwardgaston) - Edward Gaston
 - [@Morgan101h](https://github.com/Morgan101h) - Morgan Hodge
